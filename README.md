@@ -4,8 +4,7 @@ Students: Felix Olsson and Daniel Skott
 Supervisors:  Inga Saathoff and Christos Tegkelidis
 
 This repository contains the current iteration of a Pulsar toy-model developed by students Felix Olsson and Daniel Skott with support from Inga Saathoff and Christos Tegkelidis all from KTH.
-The work done is a Bachelor Thesis project titled "Pulse Profile Modeling of Accreting X-ray Pulsars: A Case Study of Centaurus X-3" and is available at [ADD LINK]
-
+The work done is a Bachelor Thesis project titled "Pulse Profile Modeling of Accreting X-ray Pulsars: A Case Study of Centaurus X-3" and is available at the [KTH diva portal](https://kth.diva-portal.org/smash/record.jsf?dswid=9245)
 ## Toy model
 
 The `toymodel.py` file will when run open a GUI that allows the user to experiment with different geometrical parameters aswell as different emission patterns.
@@ -28,7 +27,7 @@ The PSO optimizations runs previous paramaters can be found in various .csv file
 These .csv files include the fit value, wheter or not the different poles have mirrored emission patterns, the emission function, dipole criteria, runtime
 and the PSO parameters particle ammount, iterations, inertia weight, cognitive weight and social weight.
 
-The geometry parameters themselvs are in a list in the column parameters in order of inclination, positional angle, magnetic colatitude (offset), phase shift, inclination offset, azimuth offset, radius (as a Schwarzschild ratio, gamma1, weight1, weight2, gamma2 and phs2.
+The geometry parameters themselvs are in a list in the column parameters in order of inclination, positional angle, magnetic colatitude (offset), phase shift, inclination offset, azimuth offset, radius (as a Schwarzschild ratio) , gamma1, weight1, weight2, gamma2 and phs2.
 Given in degrees where they apply. 
 The gammas are used for the narrowing the emission pattern, gamma2 is only used for combined emission types and the weights are used for combined functions.
 
