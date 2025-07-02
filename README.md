@@ -4,7 +4,7 @@ Students: Felix Olsson and Daniel Skott
 Supervisors:  Inga Saathoff and Christos Tegkelidis
 
 This repository contains the current iteration of a Pulsar toy-model developed by students Felix Olsson and Daniel Skott with support from Inga Saathoff and Christos Tegkelidis all from KTH.
-The work done is a Bachelor Thesis project titled "Pulse Profile Modeling of Accreting X-ray Pulsars: A Case Study of Centaurus X-3" and is available at the [KTH diva portal](https://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=5&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=Felix+Olsson&language=sv&pid=diva2%3A1979112&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=3944) .
+The work done is a Bachelor Thesis project titled "Pulse Profile Modeling of Accreting X-ray Pulsars: A Case Study of Centaurus X-3" and is available at the [KTH diva portal](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1979112&dswid=9900).
 ## Toy model
 
 The `toymodel.py` file will when run open a GUI that allows the user to experiment with different geometrical parameters aswell as different emission patterns.
